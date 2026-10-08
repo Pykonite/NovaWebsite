@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    vertical-align: top;
+    font-family: jetBrains, serif;
+    background: rebeccapurple;
+    color: blueviolet;
+}
+h1 {
+    font: bold 40px/1.5em 'JetBrains Mono ExtraBold', monospace;
+    background: cadetblue;
+    color: cornflowerblue;
+}
+a {
+    font: condensed 1em/1.5em 'JetBrains Mono ExtraLight', monospace;
+}
+
+button {
+    
+}
